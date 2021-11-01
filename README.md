@@ -1,2 +1,5 @@
 # this_is_Java
-Let's study java
+
+### Purpose
+
+- "이것이 자바다" 책을 공부하며 책의 실습코드 및 프로젝트를 올리는 레포지토리입니다.
